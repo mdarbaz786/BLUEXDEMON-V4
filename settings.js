@@ -2,11 +2,11 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 
-global.pairingNumber = "2349019529423"
+global.pairingNumber = "917478172267"
  
-global.botNumber = ["2349019529423"]
+global.botNumber = ["917478172267"]
 
-global.anticall = true
+global.anticall = false
 
 global.sign = "➜"
 // ☞ ➻ ➽ ☛ ✔
@@ -71903,16 +71903,16 @@ global.runWith = "*NODE JS*"
 global.newsletterJid = "120363304326105871@newsletter"
 global.newsletterName = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒"
 global.ownerName = "𝐁𝐋𝐔𝐄 𝐃𝐄𝐌𝐎𝐍"
-global.syt = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
+global.syt = 'https://whatsapp.com/channel/0029VagjpXt3gvWULXD4Fb3h'
+global.sgc = 'https://whatsapp.com/channel/0029VagjpXt3gvWULXD4Fb3h'
+global.sig = 'https://whatsapp.com/channel/0029VagjpXt3gvWULXD4Fb3h'
+global.web = 'https://whatsapp.com/channel/0029VagjpXt3gvWULXD4Fb3h'
 //setbot
-global.botName = "🐦‍🔥𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒🐦‍🔥" 
-global.wm = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒"
+global.botName = "🐦‍🔥≛⃝✨𝐀𝐫𝐛𝐚𝐳-𝐤𝐡𝐚𝐧≛⃝🐦‍🔥" 
+global.wm = "> 💗≛⃝𝐀𝐫𝐛𝐚𝐳-𝐤𝐡𝐚𝐧≛⃝🌸"
 global.setmenu = "image" 
 global.docType = "application/vnd.ms-excel"
-global.themeemoji = '🐦‍🔥'
+global.themeemoji = '🌟'
 global.autoreact = false
 global.public = true
 global.baileysMd = true
@@ -71934,11 +71934,11 @@ global.replyType = "web"
 global.setwelcome = "type1"
 global.autoblockcmd = false
 global.autoReport = true
-global.autoLevel = true
+global.autoLevel = false
 global.autoSticker = true
-global.autoBio = true
+global.autoBio = false
 global.gamewaktu = 60
-global.limitCount = 30
+global.limitCount = 150
 global.Intervalmsg = 1000
 global.gris = '`'
 global.fileStackApi ="AVKHbeyXsT0G9IKI01qenz"
